@@ -29,7 +29,7 @@
 │  │  ├──Communication Interface Points.pdf 
 │  │  ├──Finite State Machine (Traffic Light Example).pdf
 │  │  ├──Device Driver Practice.pdf
-│  │  
+│
 ├──Final Project
 ├──Final Project.pdf
 │  
